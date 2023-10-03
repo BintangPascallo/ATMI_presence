@@ -1,6 +1,6 @@
 # presensi_mahasiswa
 
-Proyek Akhir
+Proyek Akhir Beasiswa IDCAMP DICODING
 
 ## Getting Started
 
